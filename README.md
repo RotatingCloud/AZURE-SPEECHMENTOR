@@ -7,13 +7,13 @@ REQUIREMENTS (make sure you have these installed before running):
 run backend
 - cd into backend `cd backend`
 - create venv with `python -m venv venv`
-- `./venv/Scripts/Activate`
+- activate venv `./venv/Scripts/Activate`
 - install req `pip install -r requirements.txt`
 - ask me for .env (only for the homies)
 - run backend `python manage.py runserver`
 
 run frontend
 - cd into frontend `cd frontend`
-- `npm install`
+- install node project dependencies `npm install`
 - ask me for .env (only for the homies)
-- `npm start`
+- start server `npm start`
