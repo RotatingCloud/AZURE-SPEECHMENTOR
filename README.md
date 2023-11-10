@@ -7,6 +7,7 @@ REQUIREMENTS (make sure you have these installed before running):
 run backend
 - cd into backend "cd backend"
 - create venv with "python -m venv venv"
+- activate venv "./venv/Scripts/Activate
 - install req "pip install -r requirements.txt"
 - ask me for .env (only for the homies)
 - run backend "python manage.py runserver"
