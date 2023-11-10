@@ -1,0 +1,29 @@
+.navbar-div {
+    background-color: rgb(60,135,167);
+    height: 50px;
+    width: 100%;
+    margin: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-div button {
+
+    border: none;
+    background-color: rgb(146, 187, 206);
+    padding: 10px 15px;
+    cursor: pointer;
+    height: 70%;
+    color: white;
+    margin-left: 9px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-div button:hover {
+    background-color: rgb(111, 186, 218);
+}

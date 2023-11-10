@@ -1,0 +1,43 @@
+.speak-button {
+    display: flex;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: none;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #316f8a;
+    color: white;
+
+    transform: scale(1.3);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.speak-button:hover {
+    background-color: rgb(179, 255, 230);
+    color: #316f8a;
+    
+}
+
+.speak-search-input {
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.speak-search-input:focus {
+    outline: none;
+    background-color: rgb(179, 255, 230);
+}
+
+.speak-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+}

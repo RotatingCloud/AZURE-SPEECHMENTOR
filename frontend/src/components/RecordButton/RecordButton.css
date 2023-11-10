@@ -1,0 +1,36 @@
+.recording-indicator {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(255, 0, 0); 
+    border-radius: 50%; 
+    margin-left: 10px;  
+}
+
+.record-voice-active {
+    background-color: rgb(255, 0, 0) !important;
+}
+
+.record-button-div {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 25px;
+}
+
+.record-voice {
+    border: none;  
+    background-color: rgb(146, 187, 206);
+    padding: 10px 15px;  
+    cursor: pointer;  
+    height: 100%; 
+    color : white;
+    border-radius: 9px;
+}
+
+.record-voice:hover {
+    background-color: rgb(155, 64, 64);
+}
+
+button {
+    width: 100px;
+}
