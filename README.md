@@ -16,3 +16,7 @@ run frontend
 - "npm install"
 - ask me for .env (only for the homies)
 - "npm start"
+
+
+developed alongside main project as a proof of concept for using Microsoft Azure Speech-to-text, Pronunciation Assessment as an alternative option.
+user is able to practice sentences and words as well as hear proper pronunciation using Google Cloud Text-to-speech.
