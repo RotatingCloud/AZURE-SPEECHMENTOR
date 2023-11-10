@@ -16,4 +16,4 @@ run frontend
 - cd into frontend `cd frontend`
 - install node project dependencies `npm install`
 - ask me for .env (only for the homies)
-- start server `npm start`
+- run frontend `npm start`
